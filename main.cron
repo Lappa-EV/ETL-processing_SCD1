@@ -1,0 +1,2 @@
+#!/bin/bash
+55 23 * * * ./main.py
